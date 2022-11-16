@@ -1,5 +1,5 @@
 {
-  "name": "feathers-objection",
+  "name": "@lmaj/feathers-objection",
   "description": "A service plugin for ObjectionJS an ORM based on KnexJS",
   "version": "7.5.4",
   "homepage": "https://github.com/feathersjs-ecosystem/feathers-objection",
