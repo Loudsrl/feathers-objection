@@ -15,21 +15,12 @@
     "postgresql",
     "redshift"
   ],
-  "license": [
-    {
-      "type": "MIT",
-      "url": "https://github.com/feathersjs-ecosystem/feathers-objection/blob/master/LICENSE"
-    }
-  ],
+  "license": "UNLICENSED",
   "repository": {
     "type": "git",
     "url": "git://github.com/feathersjs-ecosystem/feathers-objection.git"
   },
-  "author": {
-    "name": "Feathers contributors",
-    "email": "hello@feathersjs.com",
-    "url": "https://feathersjs.com"
-  },
+  "author": "Feathers contributors <hello@feathersjs.com> (https://feathersjs.com)",
   "contributors": [],
   "bugs": {
     "url": "https://github.com/feathersjs-ecosystem/feathers-objection/issues"
